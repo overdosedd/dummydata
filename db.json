@@ -1,25 +1,25 @@
  {
  "Details":[
       {
-        id: 1,
-        username: 'yihan07',
-        password: '12345678',
-        email: 'yihan@gmail.com',
-        firstname: 'yihan',
-        lastname: 'lim',
-        password2: '123456789',
-        useragree: true
+        "id": 1,
+        "username": 'yihan07',
+        "password": '12345678',
+        "email": 'yihan@gmail.com',
+        "firstname": 'yihan',
+        "lastname": 'lim',
+        "password2": '123456789',
+        "useragree": true
 
       },
       {
-        id: 2,
-        username: 'halimin07',
-        password: '23456789',
-        email: 'halimin@gmail.com',
-        firstname: 'halimin',
-        lastname: 'muhd',
-        password2: '23456789',
-        useragree: true
+        "id": 2,
+        "username": 'halimin07',
+        "password": '23456789',
+        "email": 'halimin@gmail.com',
+        "firstname": 'halimin',
+        "lastname": 'muhd',
+        "password2": '23456789',
+        "useragree": true
       }
     ]
   }
